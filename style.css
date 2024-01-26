@@ -1,6 +1,6 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: url(../selectors/imagenes/fondo.png);
+    background-image: url(/imagenes/fondo.png);
     padding: 20px;
 }
 header h1{
